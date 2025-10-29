@@ -1,0 +1,32 @@
+header{
+    background-color:rgb(247, 233, 162);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom:80ppx;
+    padding: 20px
+}
+main{
+    pading-top: 80px;
+    }
+body{
+    padding-top: 20px
+}
+footer{
+    background-color: blueviolet;
+    position: fixed;
+    bottom:0px;
+    left:0px;
+    width: 100%;
+}
+.nav-list{
+    list-style-type: none;
+    padding: 0px;
+    display:flex;
+    justify-content: space-evenly;
+
+}
+.nav-link{
+    padding: 15px;
+}
